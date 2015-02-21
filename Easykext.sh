@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 #
-# EasyKext.sh  is simple script to install kexts to S/L/E
-# It also rebuild the kernel cache and there's no need to
+# EasyKext.sh is a simple script to install kexts to S/L/E
+# It also rebuild the kernel cache and there is no need to
 # repair permissions after using it.
 #
 # Works on OS X 10.6 or later, tested on Yosemite. 
